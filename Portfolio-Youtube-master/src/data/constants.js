@@ -288,7 +288,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://maps.app.goo.gl/iVtwc5uLV2YimzTE7",
     school: "Gandhi Engineering Colllege(GEC) Bhubaneswar",
     date: "July 2024 - June 2028",
     grade: "8.12 SGPA",
@@ -297,7 +297,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://maps.app.goo.gl/bfrQcZkhFe9dKZbV8",
     school: "Mother's International Academy",
     date: "Apr 2022 - March 2024",
     grade: "75%",
@@ -306,7 +306,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://maps.app.goo.gl/bfrQcZkhFe9dKZbV8",
     school: "Mother's International Academy",
     date: "Apr 2021 - March 2022",
     grade: "85%",
